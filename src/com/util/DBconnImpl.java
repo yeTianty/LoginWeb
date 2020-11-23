@@ -3,7 +3,7 @@ package com.util;
 import java.sql.*;
 
 /**
- * @author setusb
+ * @author Tanoty
  * @version 1.0
  * @date 2020/11/22 20:57
  */
