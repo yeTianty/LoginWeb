@@ -1,0 +1,27 @@
+.div_0 {
+    margin: 0 auto;
+}
+
+.div_1 {
+    width: 1024px;
+    height: 50px;
+    margin: 0 auto;
+    background: #d0c9c9;
+}
+
+.div_2 {
+    width: 1024px;
+    height: 600px;
+    margin: 10px auto 0 auto;
+    background: #d0c9c9;
+}
+
+.div_3 {
+    width: 1024px;
+    height: 80px;
+    background: #d0c9c9;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
